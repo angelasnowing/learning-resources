@@ -1,2 +1,2 @@
 # learning-resources
-resources/books to refresh self
+Resources/books to refresh selves.
